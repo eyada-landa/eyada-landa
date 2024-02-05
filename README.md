@@ -30,7 +30,7 @@ As a dedicated Junior DevOps Engineer at Landa Digital Printing, I bring a blend
 
 ### 📫 How to reach me
 
-- LinkedIn: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/eyad-amer/)](#)
+- LinkedIn: https://www.linkedin.com/in/eyad-amer/
 - Email: eyada@landa-corp.com
 
 ### 💼 Professional Experience
