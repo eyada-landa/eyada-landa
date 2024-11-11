@@ -20,14 +20,7 @@ There are two options for publishing NuGet packages into a NuGet feed:
 3. **Add the `nuget.config` File:**
    - Place a `nuget.config` file in the same folder where you saved the package (e.g., the `Downloads` folder).
 
-4. **Restore Packages:**
-   - Run the following command in your project directory to download all necessary dependencies:
-     ```bash
-     nuget.exe restore
-     ```
-   - This step ensures that all required packages and dependencies are available locally.
-
-5. **Run the Publish Command:**
+4. **Run the Publish Command:**
    - Open a command prompt and navigate to the folder where the package and `nuget.config` file are located.
    - Run the following command to publish the NuGet package into your specified feed:
 
